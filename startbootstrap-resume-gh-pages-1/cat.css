@@ -1,0 +1,29 @@
+
+
+h1 {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    background-color: navy;
+    color: white;
+    font-family: Times New Roman, serif;
+    padding: 20px;
+}
+
+h3 {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border: 2px solid navy;
+}
+
+body {
+    background-color: #bdd2df;
+  }
+
+  
